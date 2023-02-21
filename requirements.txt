@@ -1,0 +1,9 @@
+pip install nltk
+pip install textract
+
+In python code do following once for running 
+```
+nltk.download('punkt')
+nltk.download('words')
+nltk.download('stopwords')
+```
