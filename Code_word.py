@@ -2,7 +2,7 @@ import nltk
 import textract
 from nltk.corpus import *
 
-path_name = r"D:\3-2\IR\Assignment\Assignment-1\SamplePolicyDocs\1215E.2.docx"
+path_name = r"Docs\Auto\1215E.2.docx"
 text = textract.process(path_name)
 text = text.decode("utf8")
 
