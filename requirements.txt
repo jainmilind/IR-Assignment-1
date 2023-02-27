@@ -1,5 +1,6 @@
 pip install nltk
 pip install textract
+pip install gensim
 
 In python code do following once for running 
 ```
