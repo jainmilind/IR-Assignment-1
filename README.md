@@ -23,8 +23,8 @@ nltk.download('stopwords')
  
 | Query Type | Code name |input file name|
 |-----|--------|------|
-| SINGLE WORD QUERY | [single_word_query.ipynb](Query\single_word_query.ipynb)| ?? |
-| ?? | [boolean_retrival.ipynb](Query\boolean_retrival.ipynb)| ?? |
+| SINGLE WORD QUERY | [single_word_query.ipynb](Query\single_word_query.ipynb)| single_query.txt |
+| MULTI WORD QUERY | [boolean_retrival.ipynb](Query\boolean_retrival.ipynb)| console |
 | PHRASE QUERY | [tfidf_phrase_query.ipynb](Query\tfidf_phrase_query.ipynb)| phrase_input.txt |
-| ?? | [wildcard.ipynb](Query\wildcard.ipynb)| ?? |
+| SINGLE WORD QUERY | [wildcard.ipynb](Query\wildcard.ipynb)| console |
 | PHRASE QUERY | [query_with_nlp.ipynb.ipynb](Query\query_with_nlp.ipynb)| phrase_input.txt |
